@@ -13,6 +13,12 @@ and open the template in the editor.
             h2 {background-color: powderblue; font-family: monospace}
             h3 {background-color: pink; font-family: fantasy; font-size: 90; }
          </style>  
+                 <script>
+            function krasot(){
+                var kr=document.getElementById("krasa".value;
+                document.getElementById("fons").style="background-colour"+kr; }
+            </script>
+              
           
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -22,11 +28,10 @@ and open the template in the editor.
         <div> <h3> Sugar </h3> 
                  <img src="images/izlaidums.jpg" alt=""/>
             <h3> <a href="https://www.instagram.com/alise.ruza/"> PRESS </a> </h3> </div>
-        <script>
-            function krasot(){
-                var kr=document.getElementById("krasa".value;
-                document.getElementById("fons").style=bac
-              
-            }
+        <div id="fons"style="background-color:lightblue"> Izvēlies krāsu! </div>
+        <input type="color" id="krasa" value="FFEC00" oncilck="krasot();">
+        
+
+
     </body>
 </html>
