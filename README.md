@@ -16,15 +16,12 @@ and open the template in the editor.
             h3 {background-color: pink; font-family: fantasy; font-size: 90; }
                     article {-webkit-flex: 3;
   -ms-flex: 3;flex: 3; background-color:lightpink ; padding: 10px;}
-
          </style>  
                  <script>
             function krasot(){
                 var kr=document.getElementById("krasa".value;
                 document.getElementById("fons").style="background-colour"+kr; }
             </script>
-              
-          
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
