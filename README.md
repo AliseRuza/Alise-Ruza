@@ -27,7 +27,7 @@
             <h3> <a href="https://www.instagram.com/alise.ruza/"> PRESS </a> </h3>
         <div> Izvēlies krāsu! </div>
         <input type="color" id="krasa" value="FFEC00" oncilck="krasot();">
-        <article> <table border="5" width="6" cellspacing="4" cellpadding="3"> 
+        <article> <table border="5" width="6" cellspacing="12" cellpadding="20"> 
                 <thead>
                     <tr>
                         <th> saules bērni </th> 
