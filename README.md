@@ -76,20 +76,20 @@
 		</article>
 		<div> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </div>
 		<div> <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a> </div>
-					<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+					<canvas id="myCanvas" width="200" height="100" style="border:1px solid #e6ffff;">
 					<script>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 
 // Create gradient
 var grd = ctx.createRadialGradient(75,50,5,90,60,100);
-grd.addColorStop(0,"red");
-grd.addColorStop(1,"white");
+grd.addColorStop(0,"lightpink");
+grd.addColorStop(1,"lightblue");
 
 // Fill with gradient
 ctx.fillStyle = grd;
 ctx.fillRect(10,10,150,80);
-</script>
+                    </script>
 Your browser does not support the HTML5 canvas tag. </canvas>
     </body>
 </html>
