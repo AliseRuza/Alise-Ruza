@@ -78,8 +78,8 @@ and open the template in the editor.
                         <td></td>
                     </tr>
                 </tbody> </table> </article>
-			<p> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </p>
-					<a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a>
+		<div> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </div>
+		<div> <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a> </div>
 					<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
 Your browser does not support the HTML5 canvas tag. </canvas>
     </body>
