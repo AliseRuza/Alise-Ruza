@@ -23,7 +23,7 @@
         <div> <h1> Rīgas Valsts ģimnāzijas </h1> </div>
         <div> <h2> Pirmā vienmēr pirmā </h2> </div>
         <div> <h3> Šajā bildē nav attēlota 1.ģimnāzija </h3> 
-                 <img src="public_html/izlaidums.jpg" alt=""/> </div>
+                 <img src="izlaidums.jpg" alt="hey"/> </div>
             <h3> <a href="https://www.instagram.com/alise.ruza/"> PRESS </a> </h3>
         <div> Izvēlies krāsu! </div>
         <input type="color" id="krasa" value="FFEC00" oncilck="krasot();">
@@ -86,6 +86,5 @@ grd.addColorStop(1,"lightblue");
 ctx.fillStyle = grd;
 ctx.fillRect(10,10,150,80);
 </script>
-
 Your browser does not support the HTML5 canvas tag. </canvas>
 
