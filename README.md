@@ -73,7 +73,7 @@
 		<div> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </div>
 		<div> <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a> </div>
 					<canvas id="myCanvas" width="200" height="100" style="border:1px solid #e6ffff;">
-					<script>
+<script>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 
@@ -85,7 +85,7 @@ grd.addColorStop(1,"lightblue");
 // Fill with gradient
 ctx.fillStyle = grd;
 ctx.fillRect(10,10,150,80);
-                    </script>
+</script>
 <svg width="300" height="200">
 <polygon points="100,10 40,198 190,78 10,78 160,198"
 style="fill:yellow;stroke:purple;stroke-width:7;fill-rule:evenodd;" />
