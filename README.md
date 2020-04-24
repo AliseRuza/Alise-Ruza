@@ -65,9 +65,9 @@ and open the template in the editor.
                         <td>nezinu ka jus</td>
                         <td>bet sis ir vibe</td>
                         <td>karantina</td>
-                        <td><h3>sit stipri<h3/></td>
+                        <td> <h3>sit stipri<h3/> </td>
                         <td>heyheye</td>
-                        <td><h2>ey yo<h2/></td>
+                        <td> <h2>ey yo<h2/> </td>
                     </tr>
                     <tr>
                         <td></td>
