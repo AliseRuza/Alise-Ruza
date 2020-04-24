@@ -7,7 +7,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>KARANTINA</title>
         <meta charset="UTF-8">
         <style>
             body {background-color: lightsalmon}
