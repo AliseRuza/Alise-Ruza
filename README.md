@@ -14,6 +14,7 @@ and open the template in the editor.
             h1 {background-color: palevioletred;font-size: 46;}
             h2 {background-color: powderblue; font-family: monospace}
             h3 {background-color: pink; font-family: fantasy; font-size: 90; }
+			h4 {font-family: verdana;font-size: 20px;}
                     article {-webkit-flex: 3;
   -ms-flex: 3;flex: 3; background-color:lightpink ; padding: 10px;}
          </style>  
@@ -92,10 +93,10 @@ and open the template in the editor.
                         <td></td>
                         <td></td>
                     </tr>
-					<p> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </p>
-					<a href="https://www.youtube.com/watch?v=6Dh-RL__uN4">This is a nice link</a>
-                </tbody>
-            </table> </article>
+                </tbody> </table> </article>
+			<p> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </p>
+					<a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> <h4> This is a nice link <h4/> </a>
+			
 
 
 
