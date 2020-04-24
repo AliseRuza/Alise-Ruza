@@ -86,5 +86,10 @@ grd.addColorStop(1,"lightblue");
 ctx.fillStyle = grd;
 ctx.fillRect(10,10,150,80);
                     </script>
+<svg width="300" height="200">
+<polygon points="100,10 40,198 190,78 10,78 160,198"
+style="fill:yellow;stroke:purple;stroke-width:7;fill-rule:evenodd;" />
+Sorry, your browser does not support inline SVG.
+ </svg>
 Your browser does not support the HTML5 canvas tag. </canvas>
 
