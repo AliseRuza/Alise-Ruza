@@ -21,13 +21,13 @@
     </head>
     <body>
         <div> <h1> Rīgas Valsts ģimnāzijas </h1> </div>
-        <div> <h2> Pirmā vienmēr pirmā </div> </h2> 
+        <div> <h2> Pirmā vienmēr pirmā </h2> </div>
         <div> <h3> Šajā bildē nav attēlota 1.ģimnāzija </h3> 
                  <img src="public_html/izlaidums.jpg" alt=""/> </div>
             <h3> <a href="https://www.instagram.com/alise.ruza/"> PRESS </a> </h3>
-        <div id="fons"style="background-color:lightblue"> Izvēlies krāsu! </div>
+        <div> Izvēlies krāsu! </div>
         <input type="color" id="krasa" value="FFEC00" oncilck="krasot();">
-        <article> <table border="5" width="6" cellspacing="4" cellpadding="3">
+        <article> <table border="5" width="6" cellspacing="4" cellpadding="3"> 
                 <thead>
                     <tr>
                         <th> saules bērni </th> 
