@@ -77,22 +77,6 @@ and open the template in the editor.
                         <td></td>
                         <td></td>
                     </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
                 </tbody> </table> </article>
 			<p> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </p>
 					<a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> <h4> This is a nice link <h4/> </a>
