@@ -16,6 +16,19 @@ and open the template in the editor.
             h3 {background-color: pink; font-family: fantasy; font-size: 90; }
                     article {-webkit-flex: 3;
   -ms-flex: 3;flex: 3; background-color:lightpink ; padding: 10px;}
+  parallax { 
+  /* The image used */
+  background-image: url("The_Creation_Of_Adam.png");
+
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
          </style>  
                  <script>
             function krasot(){
@@ -27,6 +40,7 @@ and open the template in the editor.
     <body>
         <div> <h1> Rīgas Valsts ģimnāzijas </h1> </div>
         <div> <h2> Pirmā vienmēr pirmā </div> </h2> 
+		<div class="parallax"></div>
         <div> <h3> Šajā bildē nav attēlota 1.ģimnāzija </h3> 
                  <img src="images/izlaidums.jpg" alt=""/>
             <h3> <a href="https://www.instagram.com/alise.ruza/"> PRESS </a> </h3> </div>
