@@ -62,16 +62,16 @@ and open the template in the editor.
                         <td> juu </td>
                     </tr>
                     <tr>
-                        <td>nezinu ka jus</td>
-                        <td>bet sis ir vibe</td>
-                        <td>karantina</td>
-                        <td> <h3>sit stipri<h3/> </td>
-                        <td>heyheye</td>
-                        <td> <h2>ey yo<h2/> </td>
+                        <td> nezinu ka jus </td>
+                        <td> bet sis ir vibe </td>
+                        <td> karantina </td>
+                        <td> <h3> sit stipri <h3/> </td>
+                        <td> heyheye </td>
+                        <td> <h2> ey yo <h2/> </td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
+                        <td> 555 </td>
+                        <td> 111 </td>
                         <td></td>
                         <td></td>
                         <td></td>
