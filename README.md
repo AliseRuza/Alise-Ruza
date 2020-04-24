@@ -92,5 +92,3 @@ ctx.fillRect(10,10,150,80);
                     </script>
 Your browser does not support the HTML5 canvas tag. </canvas>
 
-</body>
-</html>
