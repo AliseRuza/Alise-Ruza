@@ -87,8 +87,9 @@ ctx.fillStyle = grd;
 ctx.fillRect(10,10,150,80);
 </script>
 Your browser does not support the HTML5 canvas tag. </canvas>
+<h1>Es ceru, ka Tu izpildīsi!!!</h1>
 <form method="post" name="Aptauja" action="x">
-  <p>Skola<input name="skola"></p>
+  <p>Skola!<input name="skola"></p>
   Vieta <select name="Vieta">
   <option>Riga</option>
   <option>Liepaja</option>
@@ -100,7 +101,6 @@ Your browser does not support the HTML5 canvas tag. </canvas>
    Virietis<input name="dzimums" value="Virietis" type="radio"></p>
   <p>Vai es tev patiku? <input name="informacija" value="Ja" type="checkbox"></p>
   <p>Dzest datus <input name="dzest" type="reset"></p>
-  <p>iESNIEGT<input name="iesniegt" type="submit"></p>
+  <p>IESNIEGT <input name="iesniegt" type="submit"></p>
 </form>
-</body>
-</html>
+
