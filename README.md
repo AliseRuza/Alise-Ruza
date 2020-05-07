@@ -123,4 +123,4 @@ Your browser does not support the HTML5 canvas tag. </canvas>
 		<h4> Tagad tu būsi sekmīgs! </h4>
 		<button>Piespied mani - nekas nenotiks </button>
     </form> </h4>
-
+<h3> Paliec mājas </h3>
