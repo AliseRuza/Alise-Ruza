@@ -65,10 +65,10 @@
                     <tr>
                         <td> 555 </td>
                         <td> 111 </td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>xd</td>
+                        <td>xxx</td>
+                        <td>dd</td>
+                        <td>expertacija</td>
                     </tr>
 		<div> Man šobrīd NAV ko darit, bet es nemaku programmet - GRIBU 10 </div>
 		<div> <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4"> This is a nice link </a> </div>
