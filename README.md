@@ -103,4 +103,22 @@ Your browser does not support the HTML5 canvas tag. </canvas>
   <p>Dzest datus <input name="dzest" type="reset"></p>
   <p>IESNIEGT <input name="iesniegt" type="submit"></p>
 </form>
+    <form>
+        <p>Šodienas datums <input name="datums"></p>
+        <p>Šodienas datumu atradīsi šeit
+            <input onclick="datums.value=new Date();" name="poga" value="DATUMS" type="button">
+        </p>
+        <p>
+            <input value="RESET" type="reset">
+        </p>
+    </form>
+    <form>
+        <div>skaitlis 1<input type="text" name="sk1"> </div>
+        <div>
+            <input value="X" name="reiz" onclick="rez.value=sk1.value*sk2.value" type="button">
+        </div>
+        <div>skaitlis 2<input type="text" name="sk2"> </div>
+        <hr>
+        <div>Rezultāts<input name="rez"> </div>
+    </form>
 
