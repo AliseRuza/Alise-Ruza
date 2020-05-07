@@ -117,8 +117,7 @@ Your browser does not support the HTML5 canvas tag. </canvas>
         <div>
             <input value="X" name="reiz" onclick="rez.value=sk1.value*sk2.value" type="button">
         </div>
-        <div>skaitlis 2<input type="text" name="sk2"> </div>
-		<hr>
+        <div>skaitlis 2 <input type="text" name="sk2"> </div>
         <div>Rezultāts<input name="rez"> </div>
 		
 		<h4> Tagad tu būsi sekmīgs! </h4>
