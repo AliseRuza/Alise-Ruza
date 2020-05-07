@@ -121,5 +121,6 @@ Your browser does not support the HTML5 canvas tag. </canvas>
         <div>Rezultāts<input name="rez"> </div>
 		
 		<h4> Tagad tu būsi sekmīgs! </h4>
+		<button>Piespied mani - nekas nenotiks </button>
     </form> </h4>
 
