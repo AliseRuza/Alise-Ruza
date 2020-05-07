@@ -112,7 +112,7 @@ Your browser does not support the HTML5 canvas tag. </canvas>
             <input value="RESET" type="reset">
         </p>
     </form>
-    <form>
+   <h4> <form>
         <div>skaitlis 1<input type="text" name="sk1"> </div>
         <div>
             <input value="X" name="reiz" onclick="rez.value=sk1.value*sk2.value" type="button">
@@ -122,5 +122,5 @@ Your browser does not support the HTML5 canvas tag. </canvas>
         <div>Rezultāts<input name="rez"> </div>
 		
 		<h4> Tagad tu būsi sekmīgs! </h4>
-    </form>
+    </form> </h4>
 
